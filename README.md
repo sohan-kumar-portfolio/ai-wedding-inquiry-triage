@@ -29,6 +29,9 @@ Google Forms, Google Sheets, Make.com, Google Gemini API, HubSpot CRM, Gmail
 Cuts response time from hours to under a minute. No lead is
 untracked — every inquiry becomes a CRM record automatically.
 
+## Link
+https://eu1.make.com/public/shared-scenario/3e8FtN9ZDHi/wedding-inquiry-triage
+
 ## Next steps
 - Branch alerting so only high-urgency cases ping the team (currently all do)
 - Deal-to-contact association (blocked by free-tier HubSpot scope limits)
